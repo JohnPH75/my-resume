@@ -329,6 +329,14 @@ a.portdown{
 .contract-section span:nth-child(2){
 	margin-left:10px;
 }
+
+button {
+	background-color: #000;
+}
+button:hover {
+	background-color: #FFF;
+	color: green;
+}
 .footer-left{
 	margin-top:1em;
 }
