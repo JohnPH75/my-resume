@@ -535,6 +535,9 @@ p.copy-right a{
 	.contact-section h2 {
 		padding-top: 0.5em;
 	}
+	.contract-section h2 {
+		padding-top: 0.5em;
+	}
 	.footer {
 		padding: 0 0 10em;
 	}
@@ -615,6 +618,9 @@ p.copy-right a{
 		margin: 2em 0 2em 0em;
 	}
 	.contact-section h2 {
+		padding-top: 0.5em;
+	}
+	.contract-section h2 {
 		padding-top: 0.5em;
 	}
 	.footer {
@@ -719,6 +725,9 @@ p.copy-right a{
 		margin: 1em 0 2em 0em;
 	}
 	.contact-section h2 {
+		padding-top: 0.5em;
+	}
+	.contract-section h2 {
 		padding-top: 0.5em;
 	}
 	.footer {
@@ -853,6 +862,10 @@ p.copy-right a{
 		margin: 1em 0 2em 0em;
 	}
 	.contact-section h2 {
+		padding-top: 0.5em;
+		font-size: 1.6em;
+	}
+	.contract-section h2 {
 		padding-top: 0.5em;
 		font-size: 1.6em;
 	}
