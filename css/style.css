@@ -109,6 +109,7 @@ a.downarrow{
 .bannerhead{
 	position: relative;
 	width: 90%;
+	text-align: center;
 }
 .banner-info{
 	position: relative;
